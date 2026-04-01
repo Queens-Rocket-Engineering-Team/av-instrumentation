@@ -1,4 +1,4 @@
-# av-instrumentation
+# Avionics Intrumentation
 
 -  Repo contains board's **firmware**, **schematics**, and related **documentation and datasheets**.
 -  The **Main** branch contains current functional hardware/software
